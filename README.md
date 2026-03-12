@@ -31,7 +31,7 @@ Tools: Git | GitHub | Linux | Jupyter Notebook | Streamlit
 ## Education
 
 B.Sc. Chemical Engineering - Aalto University (2024-2027)
-Advanced CS Minor | Top grades: C Programming (5/5), OOP with C++ (5/5)
+Advanced CS Minor 
 
 ---
 
